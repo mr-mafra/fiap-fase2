@@ -17,11 +17,6 @@ elif delta == 0.0:
     print(f"Para a equação de {a}x² + {b}x + {c} = 0, obtivemos o seguinte valor para x = {x1}")
 else:
     print(f"Para a equação de {a}x² + {b}x + {c} = 0, não existem valores reais para x.")
-    
-
-
-# In[ ]:
-
 
 
 
